@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Redux Blog post with router demo
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Demo from the udemy react course 
 
 ### Getting Started
 
@@ -10,14 +10,14 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/HardikDG/React-redux-forms.git
+> cd FOLDER_NAME
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+ download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
